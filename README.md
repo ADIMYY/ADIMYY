@@ -3,7 +3,7 @@
 
 - 📋 I am currently studying [Computers & Informatics at Suez Canal University.](https://suez.edu.eg/ar/en/)
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently working on the **Kaaba** application, the aim of which is to monitor the visitors of the Kaaba.
 
 - 📫 How to reach me **abdoadimy@gmail.com**
 
